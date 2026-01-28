@@ -1,4 +1,5 @@
-# pong
-This is pong game project using python Turtle
-pong.py
-scr.png
+# Pong
+This is a pong game project using Python Turtle
+
+## Screenshot
+![Pong Screenshot](scr.png)
