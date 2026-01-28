@@ -2,4 +2,4 @@
 This is a pong game project using Python Turtle
 
 ## Screenshot
-![Pong Screenshot](scr.png)
+![Pong Screenshot](scr.jpeg)
